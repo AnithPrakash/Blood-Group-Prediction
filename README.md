@@ -23,5 +23,4 @@ This project aims to build a machine-learning pipeline that predicts a person’
 
 ---
 
-### 📂 Repository Structure  
 
